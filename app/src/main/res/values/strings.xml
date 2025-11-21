@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="error_title">Упс!</string>
+    <string name="retry">Повторить</string>
+    <string name="max">Макс.:</string>
+    <string name="min">Мин.:</string>
+    <string name="hourly">ПОЧАСОВОЙ ПРОГНОЗ</string>
+    <string name="dayly">ПРОГНОЗ НА 3 ДНЯ</string>
+</resources>
